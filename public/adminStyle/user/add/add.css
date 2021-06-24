@@ -1,0 +1,18 @@
+
+.select2-selection__choice{
+    background-color: #1b2d1f !important;
+}
+.select2-selection--clearable{
+    padding-bottom: 30px !important;
+}
+.select2-selection__arrow{
+    margin-top: 6px !important;
+}
+.tox-tinymce{
+    height: 350px !important;
+}
+.alert-danger{
+    margin-top: 5px !important;
+    padding: 3px 5px !important;
+}
+

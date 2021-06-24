@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'access'=>[
+        'list-category'=>'list_category',
+        'add-category'=>'add_category',
+        'edit-category'=>'edit_category',
+        'delete-category'=>'delete_category',
+        'list-menu'=>'list_menu',
+        'list-product'=>'list_product',
+        'edit-product'=>'edit_product',
+        'list-slider'=>'list_slider',
+        'list-setting'=>'list_setting',
+        'list-employee'=>'list_employee',
+        'list-role'=>'list_role'
+    ],
+    'table_module'=>[
+        'category',
+        'menu',
+        'product',
+        'slider',
+        'setting',
+        'employee',
+        'role',
+        'test'
+    ],
+    'module_child'=>[
+        'list',
+        'add',
+        'edit',
+        'delete'
+    ]
+];

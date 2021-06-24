@@ -1,0 +1,8 @@
+.card-header{
+    justify-content: center;
+    display: flex;
+    background-color: #00f169;
+}
+input[type="checkbox"]{
+    transform: scale(1.2);
+}
